@@ -12,7 +12,7 @@
 
 ## System Requirements
 
-- Operating System: Windows
+- Operating System: Windows,MacOS
 - No additional software or libraries required.
 
 ## Installation and Usage
