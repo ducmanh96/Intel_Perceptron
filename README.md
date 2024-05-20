@@ -28,7 +28,7 @@
 ## Author
 
 - Name: [Duc Manh](https://github.com/ducmanh96)
-- Contact: your_email@example.com
+- Contact: ducmanh96.vp@example.com
 
 ## License
 
