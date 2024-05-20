@@ -17,7 +17,7 @@
 
 ## Installation and Usage
 
-1. Download the folder from the [Releases](https://drive.google.com/drive/folders/15nMAqF96nj49Z-LPKMjkaouljQqTPVca?usp=sharing) page.
+1. Download the folder zip from the [Releases](https://drive.google.com/file/d/1eFMGyylcUDxfoAKQoevzBQDBD7qIK7QY/view?usp=sharing) page.
 2. Run the executable file App.exe and start using the application.
 
 ## Libraries Used
